@@ -102,7 +102,7 @@
     "unicode-byte-truncate": "^1.0.0"
   },
   "devDependencies": {
-    "@babel/cli": "^7.2.3",
+    "@babel/cli": "^7.5.0",
     "@babel/core": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
     "@commitlint/cli": "^8.0.0",
